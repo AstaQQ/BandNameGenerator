@@ -1,0 +1,15 @@
+C:\Asta\Darbas\BandNameGenerator\bin\Debug\net6.0\BandNameGenerator.exe
+C:\Asta\Darbas\BandNameGenerator\bin\Debug\net6.0\BandNameGenerator.deps.json
+C:\Asta\Darbas\BandNameGenerator\bin\Debug\net6.0\BandNameGenerator.runtimeconfig.json
+C:\Asta\Darbas\BandNameGenerator\bin\Debug\net6.0\BandNameGenerator.dll
+C:\Asta\Darbas\BandNameGenerator\bin\Debug\net6.0\BandNameGenerator.pdb
+C:\Asta\Darbas\BandNameGenerator\obj\Debug\net6.0\BandNameGenerator.csproj.AssemblyReference.cache
+C:\Asta\Darbas\BandNameGenerator\obj\Debug\net6.0\BandNameGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Asta\Darbas\BandNameGenerator\obj\Debug\net6.0\BandNameGenerator.AssemblyInfoInputs.cache
+C:\Asta\Darbas\BandNameGenerator\obj\Debug\net6.0\BandNameGenerator.AssemblyInfo.cs
+C:\Asta\Darbas\BandNameGenerator\obj\Debug\net6.0\BandNameGenerator.csproj.CoreCompileInputs.cache
+C:\Asta\Darbas\BandNameGenerator\obj\Debug\net6.0\BandNameGenerator.dll
+C:\Asta\Darbas\BandNameGenerator\obj\Debug\net6.0\refint\BandNameGenerator.dll
+C:\Asta\Darbas\BandNameGenerator\obj\Debug\net6.0\BandNameGenerator.pdb
+C:\Asta\Darbas\BandNameGenerator\obj\Debug\net6.0\BandNameGenerator.genruntimeconfig.cache
+C:\Asta\Darbas\BandNameGenerator\obj\Debug\net6.0\ref\BandNameGenerator.dll
